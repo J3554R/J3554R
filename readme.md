@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Jessar</h1>
 <h3 align="center">A passionate cybersecurity researcher</h3>
-<br>
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=j3554r&label=Profile%20views&color=0e75b6&style=flat" alt="j3554r" /> </p>-->
 
 - 🔭 I’m currently working on **improving my CTF skills through HackTheBox**
 
